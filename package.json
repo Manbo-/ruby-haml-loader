@@ -10,6 +10,7 @@
   "homepage": "https://github.com/adamdicarlo/ruby-haml-loader",
   "license": "MIT",
   "dependencies": {
-    "loader-utils": "0.2.x"
+    "loader-utils": "0.2.x",
+    "win-spawn": "~2.0.0"
   }
 }

@@ -1,4 +1,4 @@
-var spawn = require('child_process').spawn
+var spawn = require('win_spawn')
 
 module.exports = function (source) {
   var callback = this.async()

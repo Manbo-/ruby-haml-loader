@@ -1,4 +1,4 @@
-var spawn = require('win_spawn')
+var spawn = require('win-spawn')
 
 module.exports = function (source) {
   var callback = this.async()
